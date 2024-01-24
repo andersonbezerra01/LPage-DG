@@ -1,0 +1,35 @@
+/* Header */
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to right, #054f77, #007fff);
+    padding: 5px;
+    }
+
+.header-container img{
+    width: 50px;
+}
+
+.header-container .header_text{
+    color: whitesmoke;
+    margin-right: 780px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.header-container .header_botton{
+    
+}
+
+.header-container .header_botton__button{
+    background-color: #ff9933;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+    text-transform: uppercase;
+    font-size: 8px;
+    
+
+
+}

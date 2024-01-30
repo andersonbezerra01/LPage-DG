@@ -1,0 +1,91 @@
+/* Header ================================================================================================ */
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    background: #054f77;
+    padding: 8px;
+    }
+
+.header-container img{
+    width: 50px;
+    margin-top: 10px;
+}
+
+.header-container .header_text{
+    color: whitesmoke;
+    margin-right: 910px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+/* .header-container .header_botton{
+    margin-right: 12px;
+    margin-bottom: 3px;
+} */
+
+.header-container .header_botton__button{
+    background-color: #ff9933;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+    text-transform: uppercase;
+    font-size: 8px;
+    padding: 7px;
+    width: 130px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+/* Body Banner =================================================================================================== */
+.body-container{
+    background-image: url(../assets/img/CSS-wave.jpg);
+}
+
+.body{
+    width: 470px;
+    padding-top: 70px;
+    padding-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body-container .title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #054f77;
+}
+
+.subtitle{
+    padding: 20px 0 0 0;
+    width: 430px;
+    color: #327f99;
+    opacity: 0.8;
+}
+
+.subtitle-text{
+    line-height: 20px;
+}
+
+.subtitle-text2{
+    padding: 20px 0 20px 0;
+    font-size: 12px;
+}
+
+.subtitle-text3{
+    font-size: 12px;
+    font-style: italic;
+}
+
+.text_bold{
+    font-weight: bold;
+}
+
+.body .image img{
+    height: 390px;
+    position: relative;
+    left: 450px;
+    bottom: 266px;
+
+}
+
+/* body-faixa ======================================================================================== */

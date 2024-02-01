@@ -149,6 +149,8 @@
 .brc-buttons{
     width: 700px;
     margin: auto;
+    display: flex;
+    flex-wrap:wrap;
 }
 
 .brc-b{
@@ -159,11 +161,10 @@
     cursor: pointer;
     /* display: inline-block; */
     margin: 2px;
-    text-align: center;
+    /* text-align: center; */
     padding: 10px;
     min-height: 70px;
     text-transform: uppercase;
-   
 }
 
 

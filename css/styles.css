@@ -166,3 +166,15 @@
     min-height: 70px;
     text-transform: uppercase;
 }
+
+.brc-button-other .brc-other{
+    background-color: whitesmoke;
+    color:#054f77;
+    border: 1px solid #054f77;
+    cursor: pointer;
+    padding: 10px;
+    text-transform: uppercase;
+    margin: 10px 0 50px 0;
+}
+
+/* body-range-questions ================================*/

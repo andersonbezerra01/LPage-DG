@@ -155,11 +155,13 @@
     background-color: whitesmoke;
     color:#054f77;
     border: 1px solid #054f77;
-    width: 120px;
+    width: 130px;
     cursor: pointer;
     /* display: inline-block; */
     margin: 2px;
     text-align: center;
     padding: 10px;
+    min-height: 70px;
+    text-transform: uppercase;
    
 }
